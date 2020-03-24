@@ -1,2 +1,2 @@
-# angular-routing-sample
+# Angular Routing Sample
 Sample Angular Routing
